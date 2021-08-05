@@ -1,6 +1,6 @@
 # miniRT project
 
-  Mini ray-tracing project with 5 types of objects and camera position and directon control.
+  Mini ray-tracing project with 5 types of objects and camera position and directon control, lightnings and hard shadows.
   Without reflections, meshes or textures.
   
   Graphic library -- [minilibx](https://github.com/42Paris/minilibx-linux/tree/master) from ecole42.
