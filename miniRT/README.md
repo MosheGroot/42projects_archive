@@ -3,7 +3,7 @@
   Mini ray-tracing project with 5 types of objects and camera position and directon control.
   Without reflections, meshes or textures.
   
-  Graphic library -- minilibx from ecole42.
+  Graphic library -- [minilibx](https://github.com/42Paris/minilibx-linux/tree/master) from ecole42.
   
   Languare: C
 
