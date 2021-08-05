@@ -9,9 +9,29 @@
 
 ## Examples
 
+###### 2generated.rt
+![2generated.rt](./png/2generated.png)
+
+###### jupyter.rt
+![jupyter.rt](./png/jupyter.png)
+
+###### rotates.rt
+![rotates.rt](./png/rotates.png)
+
+###### spheres.rt
+![spheres.rt](./png/spheres.png)
+
+###### square.rt
+![square.rt](./png/square.png)
+
+###### the_room.rt
+![the_room.rt](./png/the_room.png)
+
+###### triangle.rt
+![triangle.rt](./png/triangle.png)
 
 ## Goal:
-  Create own ray-tracing project with various types of objects (and intersections, hello Linear Algebra) from .rt scene file.
+  Create own ray-tracing project with various types of objects (and hence the intersectionы, hello Linear Algebra) from .rt scene file.
 
 ## Result:
 
