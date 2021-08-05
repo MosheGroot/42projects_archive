@@ -49,7 +49,7 @@ $(OBJS_DIR):
 	mkdir -p $(OBJS_DIR)
 
 clean:
-	rm -rf $(OBJS)
+	rm -rf $(OBJS_DIR)
 	make -C $(MLX_DIR) clean
 
 fclean: clean
