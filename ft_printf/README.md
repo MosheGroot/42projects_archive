@@ -1,6 +1,8 @@
 # ft_printf project
 
   Little project with pretty optimized integer convertions and really slow (my fault) long arifmetics for floats.
+  
+  Languare: C
 
 ## Goal:
   Create own printf with most of flags and specifiers, but without buffer managment.
