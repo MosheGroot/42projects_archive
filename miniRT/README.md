@@ -9,8 +9,8 @@
 
 ## Examples
 
-###### 2generated.rt
-![2generated.rt](./png/2generated.png)
+###### 2generated.rt (see png/3generated.png for same in high resolution)
+![3generated.rt](./png/3generated.png)
 
 ###### jupyter.rt
 ![jupyter.rt](./png/jupyter.png)
