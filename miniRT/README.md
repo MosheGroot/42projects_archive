@@ -9,7 +9,7 @@
 
 ## Examples
 
-###### 2generated.rt (see png/3generated.png for same in high resolution)
+###### 3generated.rt (really high resolution)
 ![3generated.rt](./png/3generated.png)
 
 ###### jupyter.rt
