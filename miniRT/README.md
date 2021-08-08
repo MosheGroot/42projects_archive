@@ -1,7 +1,7 @@
 # miniRT project
 
   Mini ray-tracing project with 5 types of objects and camera position and directon control, lightnings and hard shadows.
-  Without reflections, meshes or textures.
+  Without reflections, meshes or textures, but with multithreading.
   
   Graphic library -- [minilibx](https://github.com/42Paris/minilibx-linux/tree/master) from ecole42.
   
@@ -62,7 +62,8 @@
   
 - Camera switching (use arrows)
 - Zoom  (arrows too)
-- save to .bmp option (--save flag)
+- Save to .bmp option (--save flag)
+- Multithreading
 
 ## Usage
 
