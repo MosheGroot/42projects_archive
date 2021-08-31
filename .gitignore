@@ -3,3 +3,4 @@
 minishell
 *.swp
 *.swo
+.vscode
