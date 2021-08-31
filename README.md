@@ -4,12 +4,14 @@ My archive with projects (only interesting ones) from Ecole42 (school21 in Russi
 Separate README.md in every project dirs.
 
 ## Current list of archived projects
-* [C++] [webserv (i)](/webserv)         -- implementation of webserver with configs
-* [C++] [ft_containers](/ft_containers) -- rewrite some STL containers: vector, stack, map, set (based on RB-tree!)
-* [C] [miniRT](/miniRT)                 -- raytracing project
-* [C] [minishell (q)](/minishell)       -- custom implementation of shell with parsing, IPC and so on
-* [C] [philosophers (q)](/philosophers) -- two basic multithreading and IPC problems
-* [C] [ft_printf](/ft_printf)           -- rewrite system printf function
+| Language        |           Project name           |                                     Description                           |
+|-----------------|:---------------------------------|:--------------------------------------------------------------------------|
+| ![cpp_badge]    |  webserv                         | implementation of webserver (like nginx) with custom configs              |
+| ![cpp_badge]    |  [ft_containers](/ft_containers) | rewrite some STL containers: vector, stack, map, set (based on RB-tree!)  |
+| ![c_badge]      | [miniRT](/miniRT)                | raytracing project                                                        |
+| ![c_badge]      | minishell                        | own implementation of shell with parsing, IPC and so on                   |
+| ![c_badge]      | philosophers                     | two standart multithreading and IPC problems                              |
+| ![c_badge]      | [ft_printf](/ft_printf)          | rewrite system printf function                                            | 
 
-###### (q) -- in queue
-###### (i) -- in progress
+[cpp_badge]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white
+[c_badge]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
