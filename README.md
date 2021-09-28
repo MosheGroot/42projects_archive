@@ -6,10 +6,10 @@ Separate README.md in every project dirs.
 ## Current list of archived projects
 | Language        |           Project name           |                                     Description                           |
 |-----------------|:---------------------------------|:--------------------------------------------------------------------------|
-| ![cpp_badge]    |  webserv                         | Implementation of webserver (like nginx) with custom configs              |
-| ![cpp_badge]    |  [ft_containers](/ft_containers) | Rewrite some STL containers: vector, stack, map, set (based on RB-tree!)  |
+| ![cpp_badge]    |  webserv                         | Own implementation of webserver (like nginx) with custom configs              |
+| ![cpp_badge]    |  [ft_containers](/ft_containers) | Rewriting of some STL containers: \<vector\>, \<stack\>, \<map\> and \<set\> (based on RB-tree!)  |
 | ![c_badge]      | [miniRT](/miniRT)                | Raytracing project                                                        |
-| ![c_badge]      | minishell                        | Own implementation of shell with parsing, IPC and so on                   |
+| ![c_badge]      | minishell                        | Own implementation of shell with syntax anaylysis, parsing, IPC and so on |
 | ![c_badge]      | philosophers                     | Two standart multithreading and IPC problems                              |
 | ![c_badge]      | [ft_printf](/ft_printf)          | Rewrite system printf function                                            | 
 
