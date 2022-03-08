@@ -1,6 +1,8 @@
 # ft_containers project
 
-  Rewrite some of STL containers: vector, stack, map and set. Map and set are based on own implementation of Red-black tree.
+  Rewrite some of STL containers: vector, stack, map and set. 
+
+  Map and set are based on own implementation of Red-black tree.
 
   Languare: C++
 
