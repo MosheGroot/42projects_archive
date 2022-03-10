@@ -1,3 +1,9 @@
 [submodule "miniRT/minilibx-linux"]
 	path = miniRT/minilibx-linux
 	url = https://github.com/42Paris/minilibx-linux.git
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/PP189B/webserver21
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:LinearBasis/minishell.git

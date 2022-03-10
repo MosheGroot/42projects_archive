@@ -1,6 +1,5 @@
 *.o
 *.out
-minishell
 *.swp
 *.swo
 .vscode
