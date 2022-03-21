@@ -41,6 +41,9 @@ https://user-images.githubusercontent.com/44144647/159332116-4d3cc59c-cced-484b-
 
 ### Tricorn
 
+https://user-images.githubusercontent.com/44144647/159333577-a77754f1-1233-4f38-a088-c2eb7917be9f.mp4
+
+
 
 ## Goal:
   Create simple graphic application using [MiniLibX](https://github.com/42Paris/minilibx-linux/tree/master) library.
