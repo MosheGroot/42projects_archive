@@ -2,7 +2,7 @@
 
   Classic dinning philosophers problem.
   
-  Languare: C
+  Language: C
 
 ## Goal:
   Solve dinning philosophers problem in two variants:
