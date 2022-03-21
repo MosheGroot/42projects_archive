@@ -10,7 +10,7 @@ Separate README.md in every project dirs.
 | ![cpp_badge]    | [ft_containers](/ft_containers)  | Rewriting of some STL containers: `<vector>`, `<stack>`, `<map>` and `<set>` (based on RB-tree)  |
 | ![c_badge]      | [minishell][minishell]           | Own implementation of shell with syntax anaylysis, parsing, IPC and so on |
 | ![c_badge]      | [miniRT](/miniRT)                | Raytracing project with multi-threading                                   |
-| ![c_badge]      | [Fract'ol](/fract_ol)            | Little graphic object with fractals drawing                               |
+| ![c_badge]      | [fract'ol](/fract_ol)            | Little graphic object with fractals drawing                               |
 | ![c_badge]      | [philosophers](/philosophers)    | Two classic multithreading and IPC problems                               |
 | ![c_badge]      | [ft_printf](/ft_printf)          | Own implementation of system `printf` function with `%s`, `%d`, `%f` and other + various flags  | 
 
