@@ -1,11 +1,11 @@
 # miniRT project
 
-  Mini ray-tracing project with 5 types of objects and camera position and directon control, lightnings and hard shadows.
-  Without reflections, meshes or textures, but with multithreading.
+  Mini ray-tracing project with 5 types of objects and camera position and direction control, lightnings and hard shadows.
+  Without reflections, meshes, or textures, but with multithreading.
   
   Graphic library -- [minilibx](https://github.com/42Paris/minilibx-linux/tree/master) from ecole42.
   
-  Languare: C
+  Language: C
 
 ## Examples
 
