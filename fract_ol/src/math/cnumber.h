@@ -3,8 +3,8 @@
 
 typedef struct s_cnumber
 {
-	long double	r;
-	long double	i;
-}	t_cnumber;
+  long double r;
+  long double i;
+} t_cnumber;
 
 #endif //!CNUMBER_H

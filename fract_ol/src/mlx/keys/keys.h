@@ -61,7 +61,7 @@ int   is_zoom_mouse_button(int key);
 void  switch_zoom_by_mouse(int key, int x, int y, t_frame *frame);
 
 int   is_reset_mouse_button(int key);
-void	reset_settings(t_frame *frame);
+void  reset_settings(t_frame *frame);
 
 /*  CLOSE WINDOW  */
 int   close_window(t_data *data);

@@ -18,45 +18,45 @@ static void       check_zoom_counter(t_frame *frame)
   }
 }
 
-int	is_zoom_mouse_button(int key)
+int is_zoom_mouse_button(int key)
 {
-	return (key == MOUSE_WHEEL_UP
-		|| key == MOUSE_WHEEL_DOWN);
+  return (key == MOUSE_WHEEL_UP
+    || key == MOUSE_WHEEL_DOWN);
 }
 
-int	is_zoom_keyboard_key(int key)
+int is_zoom_keyboard_key(int key)
 {
-	return (key == KEY_PLUS
-		|| key == KEY_MINUS
+  return (key == KEY_PLUS
+    || key == KEY_MINUS
     || key == KEY_NUM_PLUS
     || key == KEY_NUM_MINUS);
 }
 
-void	switch_zoom_by_mouse(int button, int x, int y, t_frame *frame)
+void  switch_zoom_by_mouse(int button, int x, int y, t_frame *frame)
 {
-	if (button == MOUSE_WHEEL_DOWN)
+  if (button == MOUSE_WHEEL_DOWN)
   {
-		frame->zoom *= FRACTOL_ZOOM_DECREASE_ASPECT;
+    frame->zoom *= FRACTOL_ZOOM_DECREASE_ASPECT;
     zoom_counter -= 1;
   }
-	else if (button == MOUSE_WHEEL_UP)
+  else if (button == MOUSE_WHEEL_UP)
   {
-		frame->zoom *= FRACTOL_ZOOM_INCREASE_ASPECT;
+    frame->zoom *= FRACTOL_ZOOM_INCREASE_ASPECT;
     zoom_counter += 1;
   }
   check_zoom_counter(frame);
-	move_origin_by_mouse(x, y, frame);
+  move_origin_by_mouse(x, y, frame);
 }
 
-void	switch_zoom_by_keyboard(int key, t_frame *frame)
+void  switch_zoom_by_keyboard(int key, t_frame *frame)
 {
-	if (key == KEY_MINUS || key == KEY_NUM_MINUS)
+  if (key == KEY_MINUS || key == KEY_NUM_MINUS)
   {
-		frame->zoom *= FRACTOL_ZOOM_DECREASE_ASPECT;
+    frame->zoom *= FRACTOL_ZOOM_DECREASE_ASPECT;
     zoom_counter -= 1;
   }
-	else if (key == KEY_PLUS || key == KEY_NUM_PLUS)
-	{	
+  else if (key == KEY_PLUS || key == KEY_NUM_PLUS)
+  { 
     frame->zoom *= FRACTOL_ZOOM_INCREASE_ASPECT;
     zoom_counter += 1;
   }
